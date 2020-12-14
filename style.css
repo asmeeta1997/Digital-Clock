@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+}
+.clockcss{
+    display: flex;
+    justify-content: center;
+    color: beige;
+    margin-top: 20rem;
+    font-size: 3rem;
+}
